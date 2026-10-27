@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "marcho78.hillchart",
+  "name": "Hill Chart",
+  "version": "1.0.0",
+  "author": "marcho78",
+  "license": "MIT",
+  "description": "A Shape Up hill chart on the bar: see where every project stands at a glance, drag projects over the hill as the work moves, and add new ones in a keystroke.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "Hill Chart",
+    "description": "Projects on a hill: figuring it out uphill, making it happen downhill",
+    "category": "Productivity",
+    "allowMultiple": false,
+    "defaultSection": "right",
+    "defaults": {
+      "staleDays": 7,
+      "dataFile": ""
+    },
+    "schema": [
+      {
+        "key": "staleDays",
+        "type": "integer",
+        "label": "Flag a project as stalled after (days, 0 = never)",
+        "min": 0,
+        "max": 90,
+        "step": 1,
+        "defaultValue": 7,
+        "description": "A project that hasn't moved on the hill for this long gets a warning ring."
+      },
+      {
+        "key": "dataFile",
+        "type": "path",
+        "label": "Projects file",
+        "defaultValue": "",
+        "description": "Where the projects are kept. Empty means ~/.local/share/hillchart/projects.json. Point it into a synced folder to share a hill between machines."
+      }
+    ]
+  }
+}

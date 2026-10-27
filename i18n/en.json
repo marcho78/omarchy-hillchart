@@ -1,0 +1,65 @@
+{
+  "title": "Hill Chart",
+  "summary.empty": "Nothing on the hill yet",
+  "summary.projects": { "one": "%1 project", "other": "%1 projects" },
+  "summary.uphill": "%1 figuring it out",
+  "summary.downhill": "%1 making it happen",
+  "summary.done": "%1 done",
+  "summary.stalled": "%1 stalled",
+
+  "hill.uphill": "FIGURING THINGS OUT",
+  "hill.downhill": "MAKING IT HAPPEN",
+
+  "phase.uphill": "Figuring it out",
+  "phase.top": "Over the top",
+  "phase.downhill": "Making it happen",
+  "phase.done": "Done",
+  "bubble": "%1 · %2",
+
+  "add.placeholder": "Add a project…",
+  "add.placeholderAt": "Name the project at %1…",
+
+  "empty.title": "Put your first project on the hill",
+  "empty.body": "Uphill is figuring out what the work really is. Over the top, the unknowns are gone and it's just doing. Type a name below and press Enter, or double-click the hill where it stands.",
+
+  "ago.never": "",
+  "ago.now": "just now",
+  "ago.minutes": "%1m ago",
+  "ago.hours": "%1h ago",
+  "ago.days": { "one": "yesterday", "other": "%1d ago" },
+  "ago.weeks": "%1w ago",
+  "ago.months": "%1mo ago",
+
+  "row.rename": "Rename",
+  "row.labelHide": "Hide label on the hill (t)",
+  "row.labelShow": "Show label on the hill (t)",
+  "row.color": "Color (c)",
+  "row.done": "Mark done",
+  "row.reopen": "Put back on the hill",
+  "row.remove": "Remove",
+  "row.stalled": { "one": "Hasn't moved in %1 day", "other": "Hasn't moved in %1 days" },
+
+  "clearDone": { "one": "Clear %1 done", "other": "Clear %1 done" },
+  "clearDone.tip": "Take finished projects off the hill. They stay in the file.",
+
+  "toast.removed": "Removed “%1”",
+  "toast.cleared": { "one": "Cleared %1 done project", "other": "Cleared %1 done projects" },
+  "toast.top": "%1 is over the top",
+  "toast.done": "%1 is done",
+  "toast.undo": "Undo",
+  "toast.undone": "Undone",
+  "toast.full": "The hill is full",
+  "toast.notSaved": "Not saved: %1",
+  "file.problem": "Not saving anything: the projects file can't be used (%1)",
+
+  "hint": "drag dots · ←→ move · ↑↓ pick · n new · t label · c color · del remove · ctrl+z undo",
+
+  "labels.showAll": "Show all",
+  "labels.hideAll": "Hide all",
+  "labels.showAllTip": "Show every label on the hill (Shift+T)",
+  "labels.hideAllTip": "Hide every label on the hill (Shift+T)",
+  "hint.empty": "type a name and press enter · or double-click the hill where the project stands",
+
+  "peek.empty": "Nothing on the hill yet. Click to add a project.",
+  "peek.more": { "one": "+%1 more", "other": "+%1 more" }
+}
