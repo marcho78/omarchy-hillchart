@@ -4,6 +4,8 @@ A [Shape Up](https://basecamp.com/shapeup/3.4-chapter-13) hill chart on the Omar
 
 ![Hill Chart: hovering the bar, dragging a project over the top, adding one, hiding a label, picking a color](docs/demo.gif)
 
+![The Hill Chart panel open under the Omarchy bar](preview.png)
+
 - **Uphill (0–49%):** figuring things out.
 - **The top (50%):** nothing about the work is unknown any more.
 - **Downhill (51–99%):** making it happen.
