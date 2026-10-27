@@ -14,7 +14,7 @@
   },
   "barWidget": {
     "displayName": "Hill Chart",
-    "description": "Projects on a hill: figuring it out uphill, making it happen downhill",
+    "description": "Track your projects at a glance: each one is a dot on a hill that climbs while you figure it out and rolls down as you get it done.",
     "category": "Productivity",
     "allowMultiple": false,
     "defaultSection": "right",
