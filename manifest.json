@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "author": "marcho78",
   "license": "MIT",
-  "description": "A Shape Up hill chart on the bar: see where every project stands at a glance, drag projects over the hill as the work moves, and add new ones in a keystroke.",
+  "description": "Track your projects at a glance, right on your Omarchy bar. Inspired by Basecamp's Hill Charts, each project is a dot on a hill: it climbs while you figure out the work and rolls down as you get it done. Drag a dot to update it and spot what's stuck.",
   "kinds": [
     "bar-widget"
   ],

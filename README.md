@@ -1,6 +1,6 @@
 # Hill Chart for Omarchy
 
-A [Shape Up](https://basecamp.com/shapeup/3.4-chapter-13) hill chart on the Omarchy bar. Each project is a dot on a hill. While you're still figuring out what the work is, it climbs. Once nothing about it is unknown, it's over the top. Then it rolls down while you make it happen.
+Track your projects at a glance, right on your Omarchy bar. Inspired by Basecamp's [Hill Charts](https://basecamp.com/shapeup/3.4-chapter-13), each project is a dot on a hill: it climbs while you figure out the work and rolls down as you get it done. Drag a dot to update it and spot what's stuck.
 
 ![Hill Chart: hovering the bar, dragging a project over the top, adding one, hiding a label, picking a color](docs/demo.gif)
 
